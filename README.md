@@ -1,0 +1,2 @@
+# Turkish-Lira-Banknote-Classification
+This project's aim is that of implementing an image classifier based on neural networks based on Tensorflow to classify images of banknotes from the Turkish Lira Banknote Dataset available on Kaggle, using as features vectors the rgb and grayscale representation of the images. The trained classifier must take an image in input an provide as output the corresponding predictions with respect to the 5, 10, 20, 50, 100 and 200 lira classes.
